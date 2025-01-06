@@ -20,3 +20,6 @@
 // 30
 // 110
 //
+
+18. // En este código existen dos procedimientos por que:
+19. // Una Función retorna un valor mientras que un procedimiento no (En ambos casos debe existir CORRESPONDENCIA).
